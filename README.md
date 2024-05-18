@@ -2,7 +2,6 @@
 
 
 -  Sou um Desenvolvedor Web Full Stack, com experiência em desenvolvimento de projetos utilizando Javascript, React e NodeJS. Possuo conhecimentos sólidos em HTML, CSS3, Styled-Components, TypeScript, PostgreSQL e GitHub, além de familiaridade com Git e SQL.
--  Atualmente estou iniciando meus estudos em Java pelo bootcamp do Santander
 
   ##
   
